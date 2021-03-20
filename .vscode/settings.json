@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\Samyukta\\Anaconda3\\envs\\wineq\\python.exe"
+    "python.pythonPath": "C:\\Users\\Samyukta\\Anaconda3\\envs\\wineq\\python.exe",
+    "python.formatting.provider": "black"
 }
