@@ -1,3 +1,7 @@
+Deployed app link: https://wineq-samy.herokuapp.com/
+
+Project built from Krish Naik MLOPs community session playlist: https://www.youtube.com/playlist?list=PLZoTAELRMXVOk1pRcOCaG5xtXxgMalpIe
+
 create env
 
 conda create -n wineq python=3.7 -y
