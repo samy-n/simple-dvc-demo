@@ -43,7 +43,7 @@ def validate_input(dict_request):
     def _validate_cols(col):
         schema=get_schema()
         actual_cols=schema.keys()
-        if col not in actual_cols:\
+        if col not in actual_cols:
             raise NotInCols
     def _validate_values(col,val):
         schema=get_schema()
